@@ -1,0 +1,17 @@
+{
+    "name": "REST",
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "V1/controllers",
+            "Models\\":"V1/models",
+            "ENV\\":"V1/Provider"
+        }
+    },
+    "authors": [
+        {
+            "name": "TIJANI ABDELLATIF",
+            "email": "tijani.idrissi.abdellatif@gmail.com"
+        }
+    ],
+    "require": {}
+}
